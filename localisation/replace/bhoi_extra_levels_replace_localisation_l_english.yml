@@ -1,0 +1,12 @@
+﻿l_english:
+ #Operative
+ operative_skill_1:0 "Recruit"
+ operative_skill_2:0 "Field Agent"
+
+ #Scientist
+ SCIENTIST_SKILL_LEVEL_NAME_0: "Inadequate"  
+ SCIENTIST_SKILL_LEVEL_NAME_1: "Inexperienced"  
+ SCIENTIST_SKILL_LEVEL_NAME_2: "Novice"  
+ SCIENTIST_SKILL_LEVEL_NAME_3: "Skilled"  
+ SCIENTIST_SKILL_LEVEL_NAME_4: "Competent"  
+ SCIENTIST_SKILL_LEVEL_NAME_5: "Experienced"
