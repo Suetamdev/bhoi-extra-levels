@@ -1,0 +1,12 @@
+﻿l_french:
+ #Operative
+ operative_skill_1:0 "Recrue"
+ operative_skill_2:0 "Agent de Terrain"
+
+ #Scientist
+ SCIENTIST_SKILL_LEVEL_NAME_0: "Inadéquat"
+ SCIENTIST_SKILL_LEVEL_NAME_1: "Inexpérimenté"
+ SCIENTIST_SKILL_LEVEL_NAME_2: "Novice"
+ SCIENTIST_SKILL_LEVEL_NAME_3: "Compétent"
+ SCIENTIST_SKILL_LEVEL_NAME_4: "Qualifié"
+ SCIENTIST_SKILL_LEVEL_NAME_5: "Expérimenté"

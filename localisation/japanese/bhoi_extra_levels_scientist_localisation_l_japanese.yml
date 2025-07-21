@@ -1,0 +1,12 @@
+﻿l_japanese:
+ #Operative
+ operative_skill_3:0 "上級工作員"
+ operative_skill_4:0 "エリート工作員"
+ operative_skill_5:0 "諜報長"
+
+ #Scientist
+ SCIENTIST_SKILL_LEVEL_NAME_6: "熟練"
+ SCIENTIST_SKILL_LEVEL_NAME_7: "専門家"
+ SCIENTIST_SKILL_LEVEL_NAME_8: "先見の明"
+ SCIENTIST_SKILL_LEVEL_NAME_9: "天才"
+ SCIENTIST_SKILL_LEVEL_NAME_10: "頭脳明晰者"

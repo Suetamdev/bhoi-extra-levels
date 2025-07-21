@@ -1,0 +1,12 @@
+﻿l_braz_por:
+ #Operative
+ operative_skill_1:0 "Recruta"
+ operative_skill_2:0 "Agente de Campo"
+ 
+ #Scientist
+ SCIENTIST_SKILL_LEVEL_NAME_0: "Inadequado"
+ SCIENTIST_SKILL_LEVEL_NAME_1: "Inexperiente"
+ SCIENTIST_SKILL_LEVEL_NAME_2: "Novato"
+ SCIENTIST_SKILL_LEVEL_NAME_3: "Habilidoso"
+ SCIENTIST_SKILL_LEVEL_NAME_4: "Competente"
+ SCIENTIST_SKILL_LEVEL_NAME_5: "Experiente"

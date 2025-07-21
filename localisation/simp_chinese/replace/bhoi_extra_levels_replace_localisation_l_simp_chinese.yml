@@ -1,0 +1,12 @@
+﻿l_simp_chinese:
+ #Operative
+ operative_skill_1:0 "新兵"
+ operative_skill_2:0 "现场特工"
+
+ #Scientist
+ SCIENTIST_SKILL_LEVEL_NAME_0: "不合格"
+ SCIENTIST_SKILL_LEVEL_NAME_1: "缺乏经验"
+ SCIENTIST_SKILL_LEVEL_NAME_2: "初学者"
+ SCIENTIST_SKILL_LEVEL_NAME_3: "熟练"
+ SCIENTIST_SKILL_LEVEL_NAME_4: "胜任"
+ SCIENTIST_SKILL_LEVEL_NAME_5: "经验丰富"

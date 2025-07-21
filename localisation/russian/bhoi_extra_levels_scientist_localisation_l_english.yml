@@ -1,0 +1,12 @@
+﻿l_russian:
+ #Operative
+ operative_skill_3:0 "Старший агент"
+ operative_skill_4:0 "Элитный агент"
+ operative_skill_5:0 "Глава шпионов"
+
+ #Scientist
+ SCIENTIST_SKILL_LEVEL_NAME_6: "Профессионал"
+ SCIENTIST_SKILL_LEVEL_NAME_7: "Эксперт"
+ SCIENTIST_SKILL_LEVEL_NAME_8: "Визионер"
+ SCIENTIST_SKILL_LEVEL_NAME_9: "Гений"
+ SCIENTIST_SKILL_LEVEL_NAME_10: "Гений стратегии"

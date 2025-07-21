@@ -1,0 +1,12 @@
+﻿l_simp_chinese:
+ #Operative
+ operative_skill_3:0 "高级特工"
+ operative_skill_4:0 "精英特工"
+ operative_skill_5:0 "间谍大师"
+
+ #Scientist
+ SCIENTIST_SKILL_LEVEL_NAME_6: "熟练"
+ SCIENTIST_SKILL_LEVEL_NAME_7: "专家"
+ SCIENTIST_SKILL_LEVEL_NAME_8: "有远见者"
+ SCIENTIST_SKILL_LEVEL_NAME_9: "天才"
+ SCIENTIST_SKILL_LEVEL_NAME_10: "智囊"

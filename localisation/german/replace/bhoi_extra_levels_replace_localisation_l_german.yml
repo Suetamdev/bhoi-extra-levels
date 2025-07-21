@@ -1,0 +1,12 @@
+﻿l_german:
+ #Operative
+ operative_skill_1:0 "Rekrut"
+ operative_skill_2:0 "Feldagent"
+
+ #Scientist
+ SCIENTIST_SKILL_LEVEL_NAME_0: "Unzulänglich"
+ SCIENTIST_SKILL_LEVEL_NAME_1: "Unerfahren"
+ SCIENTIST_SKILL_LEVEL_NAME_2: "Anfänger"
+ SCIENTIST_SKILL_LEVEL_NAME_3: "Fähig"
+ SCIENTIST_SKILL_LEVEL_NAME_4: "Kompetent"
+ SCIENTIST_SKILL_LEVEL_NAME_5: "Erfahren"

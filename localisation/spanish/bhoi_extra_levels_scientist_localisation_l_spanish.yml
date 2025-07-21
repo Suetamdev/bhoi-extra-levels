@@ -1,0 +1,12 @@
+﻿l_spanish:
+ #Operative
+ operative_skill_3:0 "Agente Senior"
+ operative_skill_4:0 "Agente de Élite"
+ operative_skill_5:0 "Jefe de Espías"
+
+ #Scientist
+ SCIENTIST_SKILL_LEVEL_NAME_6: "Competente"
+ SCIENTIST_SKILL_LEVEL_NAME_7: "Experto"
+ SCIENTIST_SKILL_LEVEL_NAME_8: "Visionario"
+ SCIENTIST_SKILL_LEVEL_NAME_9: "Genio"
+ SCIENTIST_SKILL_LEVEL_NAME_10: "Mente Maestra"

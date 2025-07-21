@@ -1,0 +1,12 @@
+﻿l_french:
+ #Operative
+ operative_skill_3:0 "Agent Senior"
+ operative_skill_4:0 "Agent d'Élite"
+ operative_skill_5:0 "Maître-espion"
+
+ #Scientist
+ SCIENTIST_SKILL_LEVEL_NAME_6: "Compétent"
+ SCIENTIST_SKILL_LEVEL_NAME_7: "Expert"
+ SCIENTIST_SKILL_LEVEL_NAME_8: "Visionnaire"
+ SCIENTIST_SKILL_LEVEL_NAME_9: "Génie"
+ SCIENTIST_SKILL_LEVEL_NAME_10: "Génie Stratège"

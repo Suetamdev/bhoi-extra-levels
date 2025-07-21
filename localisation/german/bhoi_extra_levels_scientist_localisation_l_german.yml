@@ -1,0 +1,12 @@
+﻿l_german:
+ #Operative
+ operative_skill_3:0 "Erfahrener Agent"
+ operative_skill_4:0 "Elite-Agent"
+ operative_skill_5:0 "Spionagemeister"
+
+ #Scientist
+ SCIENTIST_SKILL_LEVEL_NAME_6: "Versiert"
+ SCIENTIST_SKILL_LEVEL_NAME_7: "Experte"
+ SCIENTIST_SKILL_LEVEL_NAME_8: "Visionär"
+ SCIENTIST_SKILL_LEVEL_NAME_9: "Genie"
+ SCIENTIST_SKILL_LEVEL_NAME_10: "Mastermind"

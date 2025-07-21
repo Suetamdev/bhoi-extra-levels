@@ -1,0 +1,12 @@
+﻿l_braz_por:
+ #Operative
+ operative_skill_3:0 "Agente Sênior"
+ operative_skill_4:0 "Agente de Elite"
+ operative_skill_5:0 "Mestre da Espionagem"
+
+ #Scientist
+ SCIENTIST_SKILL_LEVEL_NAME_6: "Proficiente"
+ SCIENTIST_SKILL_LEVEL_NAME_7: "Especialista"
+ SCIENTIST_SKILL_LEVEL_NAME_8: "Visionário"
+ SCIENTIST_SKILL_LEVEL_NAME_9: "Gênio"
+ SCIENTIST_SKILL_LEVEL_NAME_10: "Mente Mestra"

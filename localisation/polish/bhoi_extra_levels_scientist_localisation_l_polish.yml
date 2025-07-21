@@ -1,0 +1,12 @@
+﻿l_polish:
+ #Operative
+ operative_skill_3:0 "Starszy Agent"
+ operative_skill_4:0 "Agent Elitarny"
+ operative_skill_5:0 "Mistrz Szpiegostwa"
+
+ #Scientist
+ SCIENTIST_SKILL_LEVEL_NAME_6: "Biegły"
+ SCIENTIST_SKILL_LEVEL_NAME_7: "Ekspert"
+ SCIENTIST_SKILL_LEVEL_NAME_8: "Wizjoner"
+ SCIENTIST_SKILL_LEVEL_NAME_9: "Geniusz"
+ SCIENTIST_SKILL_LEVEL_NAME_10: "Mistrz Umysłu"

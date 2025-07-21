@@ -1,0 +1,12 @@
+﻿l_japanese:
+ #Operative
+ operative_skill_1:0 "新人"
+ operative_skill_2:0 "現地工作員"
+
+ #Scientist
+ SCIENTIST_SKILL_LEVEL_NAME_0: "不十分"
+ SCIENTIST_SKILL_LEVEL_NAME_1: "未熟"
+ SCIENTIST_SKILL_LEVEL_NAME_2: "初心者"
+ SCIENTIST_SKILL_LEVEL_NAME_3: "熟練"
+ SCIENTIST_SKILL_LEVEL_NAME_4: "有能"
+ SCIENTIST_SKILL_LEVEL_NAME_5: "経験豊富"

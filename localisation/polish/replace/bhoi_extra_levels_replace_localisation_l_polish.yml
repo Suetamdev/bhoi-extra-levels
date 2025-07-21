@@ -1,0 +1,12 @@
+﻿l_polish:
+ #Operative
+ operative_skill_1:0 "Rekrut"
+ operative_skill_2:0 "Agent terenowy"
+
+ #Scientist
+ SCIENTIST_SKILL_LEVEL_NAME_0: "Niewystarczający"
+ SCIENTIST_SKILL_LEVEL_NAME_1: "Niedoświadczony"
+ SCIENTIST_SKILL_LEVEL_NAME_2: "Nowicjusz"
+ SCIENTIST_SKILL_LEVEL_NAME_3: "Wykwalifikowany"
+ SCIENTIST_SKILL_LEVEL_NAME_4: "Kompetentny"
+ SCIENTIST_SKILL_LEVEL_NAME_5: "Doświadczony"

@@ -1,0 +1,12 @@
+﻿l_russian:
+ #Operative
+ operative_skill_1:0 "Рекрут"
+ operative_skill_2:0 "Полевой агент"
+
+ #Scientist
+ SCIENTIST_SKILL_LEVEL_NAME_0: "Недостаточный"
+ SCIENTIST_SKILL_LEVEL_NAME_1: "Неопытный"
+ SCIENTIST_SKILL_LEVEL_NAME_2: "Новичок"
+ SCIENTIST_SKILL_LEVEL_NAME_3: "Квалифицированный"
+ SCIENTIST_SKILL_LEVEL_NAME_4: "Компетентный"
+ SCIENTIST_SKILL_LEVEL_NAME_5: "Опытный"

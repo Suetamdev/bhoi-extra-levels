@@ -1,0 +1,12 @@
+﻿l_spanish:
+ #Operative
+ operative_skill_1:0 "Recluta"
+ operative_skill_2:0 "Agente de Campo"
+
+ #Scientist
+ SCIENTIST_SKILL_LEVEL_NAME_0: "Inadecuado"
+ SCIENTIST_SKILL_LEVEL_NAME_1: "Inexperto"
+ SCIENTIST_SKILL_LEVEL_NAME_2: "Novato"
+ SCIENTIST_SKILL_LEVEL_NAME_3: "Hábil"
+ SCIENTIST_SKILL_LEVEL_NAME_4: "Competente"
+ SCIENTIST_SKILL_LEVEL_NAME_5: "Experimentado"
