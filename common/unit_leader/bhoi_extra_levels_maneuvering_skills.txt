@@ -8,6 +8,10 @@ leader_maneuvering_skills = {
 			positioning = 0.025
 			naval_retreat_speed = 0.01
 		}
+		building_module_modifier = {
+			convoy_retreat_speed = 0.01
+			naval_retreat_chance = 0.015
+		}
 	}
 
 	2 = {
@@ -16,6 +20,10 @@ leader_maneuvering_skills = {
 		modifier = {
 			positioning = 0.05
 			naval_retreat_speed = 0.02
+		}
+		building_module_modifier = {
+			convoy_retreat_speed = 0.02
+			naval_retreat_chance = 0.03
 		}
 	}
 
@@ -26,6 +34,10 @@ leader_maneuvering_skills = {
 			positioning = 0.075
 			naval_retreat_speed = 0.03
 		}
+		building_module_modifier = {
+			convoy_retreat_speed = 0.03
+			naval_retreat_chance = 0.045
+		}
 	}
 
 	4 = {
@@ -34,6 +46,10 @@ leader_maneuvering_skills = {
 		modifier = {
 			positioning = 0.1
 			naval_retreat_speed = 0.04
+		}
+		building_module_modifier = {
+			convoy_retreat_speed = 0.04
+			naval_retreat_chance = 0.06
 		}
 	}
 
@@ -44,6 +60,10 @@ leader_maneuvering_skills = {
 			positioning = 0.125
 			naval_retreat_speed = 0.05
 		}
+		building_module_modifier = {
+			convoy_retreat_speed = 0.05
+			naval_retreat_chance = 0.075
+		}
 	}
 
 	6 = {
@@ -52,6 +72,10 @@ leader_maneuvering_skills = {
 		modifier = {
 			positioning = 0.15
 			naval_retreat_speed = 0.06
+		}
+		building_module_modifier = {
+			convoy_retreat_speed = 0.06
+			naval_retreat_chance = 0.09
 		}
 	}
 
@@ -62,6 +86,10 @@ leader_maneuvering_skills = {
 			positioning = 0.175
 			naval_retreat_speed = 0.07
 		}
+		building_module_modifier = {
+			convoy_retreat_speed = 0.07
+			naval_retreat_chance = 0.105
+		}
 	}
 
 	8 = {
@@ -70,6 +98,10 @@ leader_maneuvering_skills = {
 		modifier = {
 			positioning = 0.2
 			naval_retreat_speed = 0.08
+		}
+		building_module_modifier = {
+			convoy_retreat_speed = 0.08
+			naval_retreat_chance = 0.12
 		}
 	}
 
@@ -80,6 +112,10 @@ leader_maneuvering_skills = {
 			positioning = 0.225
 			naval_retreat_speed = 0.09
 		}
+		building_module_modifier = {
+			convoy_retreat_speed = 0.09
+			naval_retreat_chance = 0.135
+		}
 	}
 
 	10 = {
@@ -88,6 +124,10 @@ leader_maneuvering_skills = {
 		modifier = {
 			positioning = 0.25
 			naval_retreat_speed = 0.10
+		}
+		building_module_modifier = {
+			convoy_retreat_speed = 0.1
+			naval_retreat_chance = 0.15
 		}
 	}
 
@@ -98,6 +138,10 @@ leader_maneuvering_skills = {
 			positioning = 0.275
 			naval_retreat_speed = 0.11
 		}
+		building_module_modifier = {
+			convoy_retreat_speed = 0.11
+			naval_retreat_chance = 0.165
+		}
 	}
 
 	12 = {
@@ -106,6 +150,10 @@ leader_maneuvering_skills = {
 		modifier = {
 			positioning = 0.3
 			naval_retreat_speed = 0.12
+		}
+		building_module_modifier = {
+			convoy_retreat_speed = 0.12
+			naval_retreat_chance = 0.18
 		}
 	}
 
@@ -116,6 +164,10 @@ leader_maneuvering_skills = {
 			positioning = 0.325
 			naval_retreat_speed = 0.13
 		}
+		building_module_modifier = {
+			convoy_retreat_speed = 0.13
+			naval_retreat_chance = 0.195
+		}
 	}
 
 	14 = {
@@ -124,6 +176,10 @@ leader_maneuvering_skills = {
 		modifier = {
 			positioning = 0.35
 			naval_retreat_speed = 0.14
+		}
+		building_module_modifier = {
+			convoy_retreat_speed = 0.14
+			naval_retreat_chance = 0.21
 		}
 	}
 
@@ -134,6 +190,10 @@ leader_maneuvering_skills = {
 			positioning = 0.375
 			naval_retreat_speed = 0.15
 		}
+		building_module_modifier = {
+			convoy_retreat_speed = 0.15
+			naval_retreat_chance = 0.225
+		}
 	}
 
 	16 = {
@@ -142,6 +202,10 @@ leader_maneuvering_skills = {
 		modifier = {
 			positioning = 0.4
 			naval_retreat_speed = 0.16
+		}
+		building_module_modifier = {
+			convoy_retreat_speed = 0.16
+			naval_retreat_chance = 0.24
 		}
 	}
 
@@ -152,6 +216,10 @@ leader_maneuvering_skills = {
 			positioning = 0.425
 			naval_retreat_speed = 0.17
 		}
+		building_module_modifier = {
+			convoy_retreat_speed = 0.17
+			naval_retreat_chance = 0.255
+		}
 	}
 
 	18 = {
@@ -160,6 +228,10 @@ leader_maneuvering_skills = {
 		modifier = {
 			positioning = 0.45
 			naval_retreat_speed = 0.18
+		}
+		building_module_modifier = {
+			convoy_retreat_speed = 0.18
+			naval_retreat_chance = 0.27
 		}
 	}
 
@@ -170,6 +242,10 @@ leader_maneuvering_skills = {
 			positioning = 0.475
 			naval_retreat_speed = 0.19
 		}
+		building_module_modifier = {
+			convoy_retreat_speed = 0.19
+			naval_retreat_chance = 0.285
+		}
 	}
 
 	20 = {
@@ -178,6 +254,10 @@ leader_maneuvering_skills = {
 		modifier = {
 			positioning = 0.5
 			naval_retreat_speed = 0.2
+		}
+		building_module_modifier = {
+			convoy_retreat_speed = 0.2
+			naval_retreat_chance = 0.3
 		}
 	}
 }

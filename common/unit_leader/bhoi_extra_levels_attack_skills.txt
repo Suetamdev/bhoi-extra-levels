@@ -7,6 +7,10 @@ leader_attack_skills = {
 		modifier = {
 			naval_damage_factor = 0.05
 		}
+		building_module_modifier = {
+			spotting_chance = 0.02
+			ships_at_battle_start = 0.02
+		}
 	}
 
 	2 = {
@@ -14,6 +18,10 @@ leader_attack_skills = {
 		type = navy
 		modifier = {
 			naval_damage_factor = 0.10
+		}
+		building_module_modifier = {
+			spotting_chance = 0.04
+			ships_at_battle_start = 0.04
 		}
 	}
 
@@ -23,6 +31,10 @@ leader_attack_skills = {
 		modifier = {
 			naval_damage_factor = 0.15
 		}
+		building_module_modifier = {
+			spotting_chance = 0.06
+			ships_at_battle_start = 0.06
+		}
 	}
 
 	4 = {
@@ -30,6 +42,10 @@ leader_attack_skills = {
 		type = navy
 		modifier = {
 			naval_damage_factor = 0.20
+		}
+		building_module_modifier = {
+			spotting_chance = 0.08
+			ships_at_battle_start = 0.08
 		}
 	}
 
@@ -39,6 +55,10 @@ leader_attack_skills = {
 		modifier = {
 			naval_damage_factor = 0.25
 		}
+		building_module_modifier = {
+			spotting_chance = 0.1
+			ships_at_battle_start = 0.1
+		}
 	}
 
 	6 = {
@@ -46,6 +66,10 @@ leader_attack_skills = {
 		type = navy
 		modifier = {
 			naval_damage_factor = 0.30
+		}
+		building_module_modifier = {
+			spotting_chance = 0.12
+			ships_at_battle_start = 0.12
 		}
 	}
 
@@ -55,6 +79,10 @@ leader_attack_skills = {
 		modifier = {
 			naval_damage_factor = 0.35
 		}
+		building_module_modifier = {
+			spotting_chance = 0.14
+			ships_at_battle_start = 0.14
+		}
 	}
 
 	8 = {
@@ -62,6 +90,10 @@ leader_attack_skills = {
 		type = navy
 		modifier = {
 			naval_damage_factor = 0.40
+		}
+		building_module_modifier = {
+			spotting_chance = 0.16
+			ships_at_battle_start = 0.16
 		}
 	}
 
@@ -71,6 +103,10 @@ leader_attack_skills = {
 		modifier = {
 			naval_damage_factor = 0.45
 		}
+		building_module_modifier = {
+			spotting_chance = 0.18
+			ships_at_battle_start = 0.18
+		}
 	}
 
 	10 = {
@@ -78,6 +114,10 @@ leader_attack_skills = {
 		type = navy
 		modifier = {
 			naval_damage_factor = 0.50
+		}
+		building_module_modifier = {
+			spotting_chance = 0.2
+			ships_at_battle_start = 0.2
 		}
 	}
 
@@ -87,6 +127,10 @@ leader_attack_skills = {
 		modifier = {
 			naval_damage_factor = 0.55
 		}
+		building_module_modifier = {
+			spotting_chance = 0.22
+			ships_at_battle_start = 0.22
+		}
 	}
 
 	12 = {
@@ -94,6 +138,10 @@ leader_attack_skills = {
 		type = navy
 		modifier = {
 			naval_damage_factor = 0.60
+		}
+		building_module_modifier = {
+			spotting_chance = 0.24
+			ships_at_battle_start = 0.24
 		}
 	}
 
@@ -103,6 +151,10 @@ leader_attack_skills = {
 		modifier = {
 			naval_damage_factor = 0.65
 		}
+		building_module_modifier = {
+			spotting_chance = 0.26
+			ships_at_battle_start = 0.26
+		}
 	}
 
 	14 = {
@@ -110,6 +162,10 @@ leader_attack_skills = {
 		type = navy
 		modifier = {
 			naval_damage_factor = 0.70
+		}
+		building_module_modifier = {
+			spotting_chance = 0.28
+			ships_at_battle_start = 0.28
 		}
 	}
 
@@ -119,6 +175,10 @@ leader_attack_skills = {
 		modifier = {
 			naval_damage_factor = 0.75
 		}
+		building_module_modifier = {
+			spotting_chance = 0.3
+			ships_at_battle_start = 0.3
+		}
 	}
 
 	16 = {
@@ -126,6 +186,10 @@ leader_attack_skills = {
 		type = navy
 		modifier = {
 			naval_damage_factor = 0.80
+		}
+		building_module_modifier = {
+			spotting_chance = 0.32
+			ships_at_battle_start = 0.32
 		}
 	}
 
@@ -135,6 +199,10 @@ leader_attack_skills = {
 		modifier = {
 			naval_damage_factor = 0.85
 		}
+		building_module_modifier = {
+			spotting_chance = 0.34
+			ships_at_battle_start = 0.34
+		}
 	}
 
 	18 = {
@@ -142,6 +210,10 @@ leader_attack_skills = {
 		type = navy
 		modifier = {
 			naval_damage_factor = 0.90
+		}
+		building_module_modifier = {
+			spotting_chance = 0.36
+			ships_at_battle_start = 0.36
 		}
 	}
 
@@ -151,6 +223,10 @@ leader_attack_skills = {
 		modifier = {
 			naval_damage_factor = 0.95
 		}
+		building_module_modifier = {
+			spotting_chance = 0.38
+			ships_at_battle_start = 0.38
+		}
 	}
 
 	20 = {
@@ -158,6 +234,10 @@ leader_attack_skills = {
 		type = navy
 		modifier = {
 			naval_damage_factor = 0.95
+		}
+		building_module_modifier = {
+			spotting_chance = 0.4
+			ships_at_battle_start = 0.4
 		}
 	}
 

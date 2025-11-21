@@ -7,6 +7,10 @@ leader_defense_skills = {
 		modifier = {
 			naval_defense_factor = 0.05
 		}
+		building_module_modifier = {
+			naval_enemy_fleet_size_ratio_penalty_factor = 0.0125
+			screening_efficiency = 0.015
+		}
 	}
 
 	2 = {
@@ -14,6 +18,10 @@ leader_defense_skills = {
 		type = navy
 		modifier = {
 			naval_defense_factor = 0.10
+		}
+		building_module_modifier = {
+			naval_enemy_fleet_size_ratio_penalty_factor = 0.025
+			screening_efficiency = 0.03
 		}
 	}
 
@@ -23,6 +31,10 @@ leader_defense_skills = {
 		modifier = {
 			naval_defense_factor = 0.15
 		}
+		building_module_modifier = {
+			naval_enemy_fleet_size_ratio_penalty_factor = 0.0375
+			screening_efficiency = 0.045
+		}
 	}
 
 	4 = {
@@ -30,6 +42,10 @@ leader_defense_skills = {
 		type = navy
 		modifier = {
 			naval_defense_factor = 0.20
+		}
+		building_module_modifier = {
+			naval_enemy_fleet_size_ratio_penalty_factor = 0.05
+			screening_efficiency = 0.06
 		}
 	}
 
@@ -39,6 +55,10 @@ leader_defense_skills = {
 		modifier = {
 			naval_defense_factor = 0.25
 		}
+		building_module_modifier = {
+			naval_enemy_fleet_size_ratio_penalty_factor = 0.0625
+			screening_efficiency = 0.075
+		}
 	}
 
 	6 = {
@@ -46,6 +66,10 @@ leader_defense_skills = {
 		type = navy
 		modifier = {
 			naval_defense_factor = 0.30
+		}
+		building_module_modifier = {
+			naval_enemy_fleet_size_ratio_penalty_factor = 0.075
+			screening_efficiency = 0.09
 		}
 	}
 
@@ -55,6 +79,10 @@ leader_defense_skills = {
 		modifier = {
 			naval_defense_factor = 0.35
 		}
+		building_module_modifier = {
+			naval_enemy_fleet_size_ratio_penalty_factor = 0.0875
+			screening_efficiency = 0.105
+		}
 	}
 
 	8 = {
@@ -62,6 +90,10 @@ leader_defense_skills = {
 		type = navy
 		modifier = {
 			naval_defense_factor = 0.40
+		}
+		building_module_modifier = {
+			naval_enemy_fleet_size_ratio_penalty_factor = 0.1
+			screening_efficiency = 0.12
 		}
 	}
 
@@ -71,6 +103,10 @@ leader_defense_skills = {
 		modifier = {
 			naval_defense_factor = 0.45
 		}
+		building_module_modifier = {
+			naval_enemy_fleet_size_ratio_penalty_factor = 0.1125
+			screening_efficiency = 0.135
+		}
 	}
 
 	10 = {
@@ -78,6 +114,10 @@ leader_defense_skills = {
 		type = navy
 		modifier = {
 			naval_defense_factor = 0.50
+		}
+		building_module_modifier = {
+			naval_enemy_fleet_size_ratio_penalty_factor = 0.125
+			screening_efficiency = 0.15
 		}
 	}
 
@@ -87,6 +127,10 @@ leader_defense_skills = {
 		modifier = {
 			naval_defense_factor = 0.55
 		}
+		building_module_modifier = {
+			naval_enemy_fleet_size_ratio_penalty_factor = 0.1375
+			screening_efficiency = 0.165
+		}
 	}
 
 	12 = {
@@ -94,6 +138,10 @@ leader_defense_skills = {
 		type = navy
 		modifier = {
 			naval_defense_factor = 0.6
+		}
+		building_module_modifier = {
+			naval_enemy_fleet_size_ratio_penalty_factor = 0.15
+			screening_efficiency = 0.18
 		}
 	}
 
@@ -103,6 +151,10 @@ leader_defense_skills = {
 		modifier = {
 			naval_defense_factor = 0.65
 		}
+		building_module_modifier = {
+			naval_enemy_fleet_size_ratio_penalty_factor = 0.1625
+			screening_efficiency = 0.195
+		}
 	}
 
 	14 = {
@@ -110,6 +162,10 @@ leader_defense_skills = {
 		type = navy
 		modifier = {
 			naval_defense_factor = 0.7
+		}
+		building_module_modifier = {
+			naval_enemy_fleet_size_ratio_penalty_factor = 0.1875
+			screening_efficiency = 0.21
 		}
 	}
 
@@ -119,6 +175,10 @@ leader_defense_skills = {
 		modifier = {
 			naval_defense_factor = 0.75
 		}
+		building_module_modifier = {
+			naval_enemy_fleet_size_ratio_penalty_factor = 0.2
+			screening_efficiency = 0.225
+		}
 	}
 
 	16 = {
@@ -126,6 +186,10 @@ leader_defense_skills = {
 		type = navy
 		modifier = {
 			naval_defense_factor = 0.8
+		}
+		building_module_modifier = {
+			naval_enemy_fleet_size_ratio_penalty_factor = 0.2125
+			screening_efficiency = 0.24
 		}
 	}
 
@@ -135,6 +199,10 @@ leader_defense_skills = {
 		modifier = {
 			naval_defense_factor = 0.85
 		}
+		building_module_modifier = {
+			naval_enemy_fleet_size_ratio_penalty_factor = 0.225
+			screening_efficiency = 0.255
+		}
 	}
 
 	18 = {
@@ -142,6 +210,10 @@ leader_defense_skills = {
 		type = navy
 		modifier = {
 			naval_defense_factor = 0.9
+		}
+		building_module_modifier = {
+			naval_enemy_fleet_size_ratio_penalty_factor = 0.2375
+			screening_efficiency = 0.27
 		}
 	}
 
@@ -151,6 +223,10 @@ leader_defense_skills = {
 		modifier = {
 			naval_defense_factor = 0.95
 		}
+		building_module_modifier = {
+			naval_enemy_fleet_size_ratio_penalty_factor = 0.25
+			screening_efficiency = 0.285
+		}
 	}
 
 	20 = {
@@ -158,6 +234,10 @@ leader_defense_skills = {
 		type = navy
 		modifier = {
 			naval_defense_factor = 1
+		}
+		building_module_modifier = {
+			naval_enemy_fleet_size_ratio_penalty_factor = 0.2625
+			screening_efficiency = 0.3
 		}
 	}
 

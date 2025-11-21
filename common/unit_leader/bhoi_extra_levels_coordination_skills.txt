@@ -7,6 +7,10 @@ leader_coordination_skills = {
 		modifier = {
 			naval_coordination = 0.01
 		}
+		building_module_modifier = {
+			naval_coordination = 0.01
+			navy_org_factor = 0.025
+		}
 	}
 
 	2 = {
@@ -14,6 +18,10 @@ leader_coordination_skills = {
 		type = navy
 		modifier = {
 			naval_coordination = 0.03
+		}
+		building_module_modifier = {
+			naval_coordination = 0.02
+			navy_org_factor = 0.05
 		}
 	}
 
@@ -23,6 +31,10 @@ leader_coordination_skills = {
 		modifier = {
 			naval_coordination = 0.05
 		}
+		building_module_modifier = {
+			naval_coordination = 0.03
+			navy_org_factor = 0.075
+		}
 	}
 
 	4 = {
@@ -30,6 +42,10 @@ leader_coordination_skills = {
 		type = navy
 		modifier = {
 			naval_coordination = 0.07
+		}
+		building_module_modifier = {
+			naval_coordination = 0.04
+			navy_org_factor = 0.1
 		}
 	}
 
@@ -39,6 +55,10 @@ leader_coordination_skills = {
 		modifier = {
 			naval_coordination = 0.09
 		}
+		building_module_modifier = {
+			naval_coordination = 0.05
+			navy_org_factor = 0.125
+		}
 	}
 
 	6 = {
@@ -46,6 +66,10 @@ leader_coordination_skills = {
 		type = navy
 		modifier = {
 			naval_coordination = 0.12
+		}
+		building_module_modifier = {
+			naval_coordination = 0.06
+			navy_org_factor = 0.15
 		}
 	}
 
@@ -55,6 +79,10 @@ leader_coordination_skills = {
 		modifier = {
 			naval_coordination = 0.14
 		}
+		building_module_modifier = {
+			naval_coordination = 0.07
+			navy_org_factor = 0.175
+		}
 	}
 
 	8 = {
@@ -62,6 +90,10 @@ leader_coordination_skills = {
 		type = navy
 		modifier = {
 			naval_coordination = 0.16
+		}
+		building_module_modifier = {
+			naval_coordination = 0.08
+			navy_org_factor = 0.2
 		}
 	}
 
@@ -71,6 +103,10 @@ leader_coordination_skills = {
 		modifier = {
 			naval_coordination = 0.18
 		}
+		building_module_modifier = {
+			naval_coordination = 0.09
+			navy_org_factor = 0.225
+		}
 	}
 
 	10 = {
@@ -78,6 +114,10 @@ leader_coordination_skills = {
 		type = navy
 		modifier = {
 			naval_coordination = 0.2
+		}
+		building_module_modifier = {
+			naval_coordination = 0.1
+			navy_org_factor = 0.25
 		}
 	}
 
@@ -87,6 +127,10 @@ leader_coordination_skills = {
 		modifier = {
 			naval_coordination = 0.22
 		}
+		building_module_modifier = {
+			naval_coordination = 0.11
+			navy_org_factor = 0.275
+		}
 	}
 
 	12 = {
@@ -94,6 +138,10 @@ leader_coordination_skills = {
 		type = navy
 		modifier = {
 			naval_coordination = 0.24
+		}
+		building_module_modifier = {
+			naval_coordination = 0.12
+			navy_org_factor = 0.3
 		}
 	}
 
@@ -103,6 +151,10 @@ leader_coordination_skills = {
 		modifier = {
 			naval_coordination = 0.26
 		}
+		building_module_modifier = {
+			naval_coordination = 0.13
+			navy_org_factor = 0.325
+		}
 	}
 
 	14 = {
@@ -110,6 +162,10 @@ leader_coordination_skills = {
 		type = navy
 		modifier = {
 			naval_coordination = 0.28
+		}
+		building_module_modifier = {
+			naval_coordination = 0.14
+			navy_org_factor = 0.35
 		}
 	}
 
@@ -119,6 +175,10 @@ leader_coordination_skills = {
 		modifier = {
 			naval_coordination = 0.3
 		}
+		building_module_modifier = {
+			naval_coordination = 0.15
+			navy_org_factor = 0.375
+		}
 	}
 
 	16 = {
@@ -126,6 +186,10 @@ leader_coordination_skills = {
 		type = navy
 		modifier = {
 			naval_coordination = 0.32
+		}
+		building_module_modifier = {
+			naval_coordination = 0.16
+			navy_org_factor = 0.4
 		}
 	}
 
@@ -135,6 +199,10 @@ leader_coordination_skills = {
 		modifier = {
 			naval_coordination = 0.34
 		}
+		building_module_modifier = {
+			naval_coordination = 0.17
+			navy_org_factor = 0.425
+		}
 	}
 
 	18 = {
@@ -142,6 +210,10 @@ leader_coordination_skills = {
 		type = navy
 		modifier = {
 			naval_coordination = 0.36
+		}
+		building_module_modifier = {
+			naval_coordination = 0.18
+			navy_org_factor = 0.45
 		}
 	}
 
@@ -151,6 +223,10 @@ leader_coordination_skills = {
 		modifier = {
 			naval_coordination = 0.38
 		}
+		building_module_modifier = {
+			naval_coordination = 0.19
+			navy_org_factor = 0.475
+		}
 	}
 
 	20 = {
@@ -158,6 +234,10 @@ leader_coordination_skills = {
 		type = navy
 		modifier = {
 			naval_coordination = 0.4
+		}
+		building_module_modifier = {
+			naval_coordination = 0.2
+			navy_org_factor = 0.5
 		}
 	}
 }
