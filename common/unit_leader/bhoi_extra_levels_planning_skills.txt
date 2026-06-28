@@ -370,6 +370,7 @@ leader_planning_skills = {
 		modifier = {
 			planning_speed = 0.05
 			max_planning = 0.02
+			command_abilities_cost_factor = -0.05
 		}
 	}
 
@@ -380,6 +381,7 @@ leader_planning_skills = {
 		modifier = {
 			planning_speed = 0.1
 			max_planning = 0.04
+			command_abilities_cost_factor = -0.1
 		}
 	}
 
@@ -390,6 +392,7 @@ leader_planning_skills = {
 		modifier = {
 			planning_speed = 0.15
 			max_planning = 0.06
+			command_abilities_cost_factor = -0.15
 		}
 	}
 
@@ -399,6 +402,7 @@ leader_planning_skills = {
 		modifier = {
 			planning_speed = 0.2
 			max_planning = 0.08
+			command_abilities_cost_factor = -0.2
 		}
 	}
 
@@ -408,6 +412,7 @@ leader_planning_skills = {
 		modifier = {
 			planning_speed = 0.25
 			max_planning = 0.1
+			command_abilities_cost_factor = -0.25
 		}
 	}
 
@@ -417,6 +422,7 @@ leader_planning_skills = {
 		modifier = {
 			planning_speed = 0.3
 			max_planning = 0.12
+			command_abilities_cost_factor = -0.3
 		}
 	}
 
@@ -426,6 +432,7 @@ leader_planning_skills = {
 		modifier = {
 			planning_speed = 0.35
 			max_planning = 0.14
+			command_abilities_cost_factor = -0.35
 		}
 	}
 
@@ -435,6 +442,7 @@ leader_planning_skills = {
 		modifier = {
 			planning_speed = 0.4
 			max_planning = 0.16
+			command_abilities_cost_factor = -0.4
 		}
 	}
 
@@ -444,6 +452,7 @@ leader_planning_skills = {
 		modifier = {
 			planning_speed = 0.45
 			max_planning = 0.18
+			command_abilities_cost_factor = -0.45
 		}
 	}
 
@@ -453,6 +462,7 @@ leader_planning_skills = {
 		modifier = {
 			planning_speed = 0.5
 			max_planning = 0.2
+			command_abilities_cost_factor = -0.5
 		}
 	}
 
@@ -462,6 +472,7 @@ leader_planning_skills = {
 		modifier = {
 			planning_speed = 0.55
 			max_planning = 0.22
+			command_abilities_cost_factor = -0.525
 		}
 	}
 
@@ -471,6 +482,7 @@ leader_planning_skills = {
 		modifier = {
 			planning_speed = 0.6
 			max_planning = 0.24
+			command_abilities_cost_factor = -0.55
 		}
 	}
 
@@ -480,6 +492,7 @@ leader_planning_skills = {
 		modifier = {
 			planning_speed = 0.65
 			max_planning = 0.26
+			command_abilities_cost_factor = -0.575
 		}
 	}
 
@@ -489,6 +502,7 @@ leader_planning_skills = {
 		modifier = {
 			planning_speed = 0.7
 			max_planning = 0.28
+			command_abilities_cost_factor = -0.6
 		}
 	}
 
@@ -498,6 +512,7 @@ leader_planning_skills = {
 		modifier = {
 			planning_speed = 0.75
 			max_planning = 0.3
+			command_abilities_cost_factor = -0.625
 		}
 	}
 
@@ -507,6 +522,7 @@ leader_planning_skills = {
 		modifier = {
 			planning_speed = 0.8
 			max_planning = 0.32
+			command_abilities_cost_factor = -0.65
 		}
 	}
 
@@ -516,6 +532,7 @@ leader_planning_skills = {
 		modifier = {
 			planning_speed = 0.85
 			max_planning = 0.34
+			command_abilities_cost_factor = -0.675
 		}
 	}
 
@@ -525,6 +542,7 @@ leader_planning_skills = {
 		modifier = {
 			planning_speed = 0.9
 			max_planning = 0.36
+			command_abilities_cost_factor = -0.7
 		}
 	}
 
@@ -534,6 +552,7 @@ leader_planning_skills = {
 		modifier = {
 			planning_speed = 0.95
 			max_planning = 0.38
+			command_abilities_cost_factor = -0.725
 		}
 	}
 
@@ -543,6 +562,7 @@ leader_planning_skills = {
 		modifier = {
 			planning_speed = 1
 			max_planning = 0.4
+			command_abilities_cost_factor = -0.75
 		}
 	}
 }
